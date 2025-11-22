@@ -45,7 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const fondos = [
         "img/olas.jpg",
         "img/noche.jpg",
-        "img/cielo.jpg"
+        "img/cielo.jpg",
+        "img/hifi.png"
     ];
 
     let indiceFondo = 0;
