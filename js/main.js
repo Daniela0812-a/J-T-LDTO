@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let obstacleInterval;
 
     // Velocidad base del obstáculo
-    let velocidadObstaculo = 10;
+    let velocidadObstaculo = 15;
 
 
     /*Fondo del juego*/
